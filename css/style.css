@@ -155,7 +155,7 @@ after pszeudo-elemei */
  elemeken belül lévő span elemek */
 .menu__hamburger.is-active span
 {
-  background: none;
+   background: none;
 }
 
 /* 17: a menu__hamburger--htx és az is-active osztályhoz egyszerre tartozó
